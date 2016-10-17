@@ -5,3 +5,5 @@ Installation
 
 Run on android device or emulator
 - react-native run-android
+
+on ios soon!!!
