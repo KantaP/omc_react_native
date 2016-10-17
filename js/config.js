@@ -14,17 +14,17 @@ export const region = {
 
 export const googleApiKey = 'AIzaSyAHjTmv4N_xSZp5EMsI6-iDWFs37edVRGg'
 
-export const server = 'dev'
-export const api = 'dev'
+export const server = 'prod'
+export const api = 'prod'
 export const apiServer = {
     dev: '192.168.1.10:3000',
     prod: 'webservice.ecoachmanager.com'
 }
 
-export const website = 'journey.local.ppcnseo.com'
-    // export const website = 'booking.omc.uk.com'
-export const siteId = 232
-    // export const siteId = 348
+// export const website = 'journey.local.ppcnseo.com'
+    export const website = 'booking.omc.uk.com'
+// export const siteId = 232
+    export const siteId = 348
 
 export const apiKey = {
     dev: 'eyJhbGciOiJIUzI1NiJ9.Ung3OA.FtKwL5314bTX6aCA3NQD2ZqvpQ4Z7RhuTo_GwdyywYc',
